@@ -1,0 +1,13 @@
+name: cmc-mock
+title: cmc-mock
+username:
+account: cmc-mock
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8295627
+bundleId: 6839675
+url: https://cmc-mock.shinyapps.io/cmc-mock/
+when: 1676273721.36516
+lastSyncTime: 1676273721.36517
+asMultiple: FALSE
+asStatic: FALSE
